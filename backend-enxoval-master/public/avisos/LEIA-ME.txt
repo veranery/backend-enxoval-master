@@ -1,0 +1,9 @@
+Coloque aqui as imagens dos avisos/ofertas (jpg, png ou webp).
+
+Depois, referencie o nome do arquivo em src/data/notices.js, no campo
+"image", começando com /avisos/. Exemplo:
+
+  image: '/avisos/oferta-berco.jpg'
+
+Este arquivo (LEIA-ME.txt) pode ficar aqui sem problema, ele não aparece
+no site.
